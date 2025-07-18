@@ -18,12 +18,12 @@ header {
   position: absolute;
   top: -8px;
   /* kutunun dışına çıkması için */
-  right: 16px;
+  right: 20px;
   /* sağdan uygun boşluk, kutu iç padding'ine göre */
   border-width: 8px;
   border-style: solid;
   border-color: transparent transparent white transparent;
-  z-index: 20;
+  z-index: 99;
 }
 
 
