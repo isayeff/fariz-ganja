@@ -151,7 +151,7 @@ const cardsArr = [
     {
         image: "percent.png",
         title: "kredit",
-        desc: "sərfəli şərtlərlə nağd kredit",
+        desc: "kredit olmaz, vermirik, haramdı. gedin yaxin dost qardasdan borc alin.",
         url: "https://atb.az/kredit/"
     },
     {
